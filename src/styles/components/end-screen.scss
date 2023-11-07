@@ -164,8 +164,8 @@
             .heading {
                 font-style: italic;
                 margin: 0 0 rem;
-                font-size: rem(60px);
-    line-height: 0.6;
+                font-size: rem(100px);
+    line-height: 0.9;
                 text-shadow: 0 0 rem(1px) rgba(255, 255, 255, 0.6);
             }
     
@@ -174,12 +174,11 @@
                 font-size: rem(40px);
             }
             .linked-in{
-                height: 1.5rem;
-    width: 1.5rem;
-    position: absolute;
-    margin-left: 2.75rem;
-    margin-top: 18.875rem;
-
+                height: rem(40px);
+                width:rem(40px);
+                position: absolute;
+                margin-left: rem(540px);
+                margin-top: rem(400px);
             }
             
             .facebook-logo{
@@ -187,7 +186,7 @@
                 width:rem(40px);
                 position: absolute;
                 margin-left: rem(490px);
-                margin-top: rem(350px);
+                margin-top: rem(400px);
             }
             
             .paragraph {
